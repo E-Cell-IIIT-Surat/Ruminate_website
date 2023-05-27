@@ -1,0 +1,26 @@
+#Home{
+    height:90vh;
+    display: flex;
+    background-color: #202020;
+}
+#ruminateImage{
+    width:140%;
+    overflow: hidden;
+}
+#logoHome{
+    width:40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#landingLogo{
+    width:40vw;
+}
+#motoHome{
+    font-size:40px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:60%;
+}

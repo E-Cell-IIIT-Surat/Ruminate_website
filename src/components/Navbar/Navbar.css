@@ -1,0 +1,38 @@
+nav{
+    height:10vh;
+    background: #202020;
+    color:white;
+    position: sticky;
+}
+#desktopNavHolder{
+height:100%;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+#logo{
+    height:80px;
+    width: 80px;
+}
+#moto{
+    letter-spacing: 2px;
+    font-size: 25px;
+    color: #ea5f28;
+    
+}
+#logoHolder{
+    width:40%;
+    height:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#navBarHolder{
+    color:white;
+    width:50%;
+    height:100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 20px;
+}

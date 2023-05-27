@@ -1,0 +1,23 @@
+#stats{
+    height:40vh;
+    background-color: #202020;   
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.iconWithDescription{
+    display: flex;
+    color:White;
+    font-size: 2rem;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap:2vh;    
+}
+.iconDescription{
+    font-size: 1.4rem;
+}
+.lightbulb{
+    font-size: 3rem;
+    color:white;
+}
