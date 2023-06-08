@@ -1,0 +1,29 @@
+#footer{
+    border:2px solid black;
+    min-height:30vh;
+    background-color: #202020;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#footer div{
+    width:60%;
+    color:white;
+}
+
+#footerUp{
+    height:70%;
+}
+#googleMaps{
+    display: flex;
+    flex-direction: column;
+    gap:4vh;
+}
+#footerDown{
+    height:30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 1.2rem;
+}

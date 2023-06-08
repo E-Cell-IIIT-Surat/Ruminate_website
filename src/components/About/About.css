@@ -1,0 +1,33 @@
+  @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins:wght@300&family=Roboto&display=swap');
+#about{
+    height:60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    font-family: 'Poppins', sans-serif;
+    padding:10px;
+
+}
+#headerAbout{
+    font-weight: bold;
+    letter-spacing: 0.5em;
+    font-size: 24px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.317);
+    padding-bottom: 2vh;
+}
+#motoAbout{
+    font-size: 16px;
+}
+
+#visionMissionAbout{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    width:50%;
+    gap:2vh;
+}
+#visionHeader{
+    font-size: 20px;
+}
